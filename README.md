@@ -3,31 +3,4 @@
 
 
 
-shop-web
-│   pom.xml
-│   application.properties
-│
-└───src
-    └───main
-        ├───java
-        │   └───com
-        │       └───example
-        │           └───shopweb
-        │               │   ShopWebApplication.java
-        │               │
-        │               ├───controller
-        │               │       ProductController.java
-        │               │
-        │               ├───model
-        │               │       Product.java
-        │               │
-        │               └───service
-        │                       ProductService.java
-        │
-        └───resources
-            │   templates
-            │       index.html
-            │       product.html
-            │
-            └───static
 
