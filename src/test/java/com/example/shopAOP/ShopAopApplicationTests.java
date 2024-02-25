@@ -1,0 +1,13 @@
+package com.example.shopAOP;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class ShopAopApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
