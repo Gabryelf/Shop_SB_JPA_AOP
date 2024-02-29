@@ -1,7 +1,8 @@
 Эврика сервер отслеживает работу приложений магазина и сообщает о статусе их работы вам и им самим.
 
 
-https://github.com/Gabryelf/Shop_SB_JPA_AOP/blob/webApp4_EurekaServer/src/main/resources/spBooteureka.png?raw=true
+![image](https://github.com/Gabryelf/Shop_SB_JPA_AOP/assets/145398532/3119f0db-8ccb-406d-b42e-25a21976892f)
+
 
 
 
