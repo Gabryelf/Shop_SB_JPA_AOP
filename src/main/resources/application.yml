@@ -1,0 +1,19 @@
+server:
+  port: 8089
+spring:
+  application:
+    name: api-gate
+
+routes:
+  - id: Microservice1
+    url: http://localhost:8080/
+    predicates:
+    - Path=/web/**
+  - id: Microservice2
+    url: http://localhost:8081/
+    predicates:
+    - Path=/reservation/**
+  - id: Microservice3
+    url: http://localhost:8082/
+    predicates:
+      - Path=/payment/**
